@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AI for Public Policy Directory"
+  description: "A searchable directory of AI tools, dashboards, and projects built for public policy"
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Directory
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/pranaykotas/IndianPublicPolicy
+        aria-label: GitHub
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

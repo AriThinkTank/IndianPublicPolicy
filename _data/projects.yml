@@ -1,0 +1,5 @@
+- name: "ParliamentWatch"
+  category: "Analytical Tools"
+  description: "Track, search, and get AI-powered summaries of Indian Parliamentary Committee reports from all 16 DRSCs across Lok Sabha and Rajya Sabha"
+  url: "https://github.com/pranaykotas/parliamentwatch"
+  tags: ["parliament", "india", "nlp", "tracking", "open-data"]

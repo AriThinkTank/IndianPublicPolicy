@@ -1,0 +1,27 @@
+---
+title: "About This Directory"
+---
+
+## What is this?
+
+The **AI for Public Policy Directory** is a community-curated catalog of tools, dashboards, visualisations, and projects that use AI/ML to support public policy research, analysis, and governance.
+
+Whether you're a researcher, think tank professional, civic tech developer, or policy student — this directory helps you discover what's already been built so you can learn from it, use it, or build on it.
+
+## Why does this exist?
+
+Many people are building AI tools for public policy — from parliamentary trackers to budget visualisers to regulation dashboards. But there's no single place to find all of them. This directory aims to fill that gap.
+
+## How to contribute
+
+We welcome contributions! If you've built or know of an AI tool for public policy, you can add it to this directory by submitting a pull request on GitHub.
+
+See our [Contributing Guide](https://github.com/pranaykotas/IndianPublicPolicy/blob/main/CONTRIBUTING.md) for step-by-step instructions.
+
+## Who maintains this?
+
+This directory is maintained by the public policy community. It was started by [Takshashila Institution](https://takshashila.org.in).
+
+## Contact
+
+Have questions or suggestions? [Open an issue](https://github.com/pranaykotas/IndianPublicPolicy/issues) on GitHub.
