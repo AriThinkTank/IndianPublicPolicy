@@ -2,7 +2,7 @@
 
 A community-curated, searchable directory of AI tools, dashboards, and projects built for public policy.
 
-**Website:** [pranaykotas.github.io/IndianPublicPolicy](https://pranaykotas.github.io/IndianPublicPolicy/)
+**Website:** [aipublicpolicy.org](https://aipublicpolicy.org)
 
 ## Why this exists
 
