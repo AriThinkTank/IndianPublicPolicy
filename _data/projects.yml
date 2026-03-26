@@ -26,17 +26,23 @@
   category: "Analytical Tools"
   description: "Clean & Ready-to-use Datasets on India"
   url: "https://dataful.in"
-  tags: ["government-data", "PublicPolicy", "public-data"]
+  tags: ["government-data", "publicpolicy", "public-data"]
 
 - name: "Tagore AI"
   category: "Analytical Tools"
   description: "AI-Powered Research Platform Driven by Millions of Official Documents"
   url: "https://tagore.ai/"
-  tags: ["government-data", "PublicPolicy", "AI Search"]
+  tags: ["government-data", "publicpolicy", "ai-search"]
 
   
 - name: "CSR Insights"
   category: "Analytical Tools"
   description: "Access over 8 years of Corporate Social Responsibility data. Discover how thousands of crores have been spent on social impact projects by companies across different sectors in India."
   url: "https://csr.dataful.in/"
-  tags: ["government-data", "PublicPolicy", "CSR"]
+  tags: ["government-data", "publicpolicy", "csr"]
+
+- name: "India's Digital Payments Frontier"
+  category: "AI Reports"
+  description: "UPI District Adoption from 2018-2024"
+  url: "https://datavis=phonep.netlify.app"
+  tags: ["dpi", "society-data", "upi"]
