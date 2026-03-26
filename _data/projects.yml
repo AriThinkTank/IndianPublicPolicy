@@ -3,3 +3,9 @@
   description: "Track, search, and get AI-powered summaries of Indian Parliamentary Committee reports from all 16 DRSCs across Lok Sabha and Rajya Sabha"
   url: "https://github.com/pranaykotas/parliamentwatch"
   tags: ["parliament", "india", "nlp", "tracking", "open-data"]
+
+- name: "Goat Beard"
+  category: "AI Reports"
+  description: "Quirky name, serious mission — tracks and documents gubernatorial transgressions in India with evidence-backed sourced reports"
+  url: "https://goatbeards.jdlabs.top"
+  tags: ["accountability", "governance", "evidence-tracking", "india"]
