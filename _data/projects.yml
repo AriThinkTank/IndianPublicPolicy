@@ -53,13 +53,13 @@
   url: "https://reservationsim.jdlabs.top"
   tags: ["reservation", "policy-simulation", "social-policy", "india"]
 
-- name: "Supply Chains Analysis"
+- name: "Supply Chains Disruption Analysis"
   category: "Visualisations"
-  description: "Analysis of how the US–China tariff war, and escalating US–India trade tensions, have reshaped global supply chains — and whether India has capitalised or ceded ground to other countries like Vietnam, Bangladesh and Mexico."
+  description: "Analysis of how the US–China tariff war, and escalating US–India trade tensions, have reshaped global supply chains — and whether India has capitalised or ceded ground to other countries."
   url: "https://arithinktank.github.io/supply-chain-analysis/"
   tags: ["supply-chains", "ai-summaries"]
 
-- name: "Hormuz Strait Blockade Analysis"
+- name: "Strait of Hormuz Blockade Analysis"
   category: "Visualisations"
   description: "Impact of the Strait of Hormuz Blockade on India"
   url: "https://arithinktank.github.io/West-Asian-War-Analysis/"
